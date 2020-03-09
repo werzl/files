@@ -7,11 +7,18 @@ This is my custom ES Lint config file, feel free to use it as a template and cha
 
 - Yarn OR NPM
 
+- NPM Packages: eslint, babel-eslint, eslint-plugin-react.
+
 ### Installation
 #### Adding eslint
 - yarn global add eslint
 <br>OR
 - npm install -g eslint
+
+#### Adding the Babel Plugin
+- yarn add --dev babel-eslint
+<br>OR
+- npm install --save-dev babel-eslint
 
 #### Adding the React Plugin
 - yarn add --dev eslint-plugin-react
