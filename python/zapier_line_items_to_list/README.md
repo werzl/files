@@ -12,7 +12,7 @@ Written for Python 3.6 but should work for 3.7.
 The dictionary from Zapier with comma separated values in place of Arrays.
 
 #### params
-A string array with each key in the dictionary to be translated from CSV's -> Array
+A string Array with each key in the dictionary to be translated from CSV's -> Array
 
 #### output_object=[]
 The Array of extracted values.
