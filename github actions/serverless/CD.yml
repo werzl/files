@@ -1,0 +1,27 @@
+name: CD
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  deploy:
+    name: deploy
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+      
+    - name: yarn package installation ⏳
+      run: yarn install
+      
+    - name: Run Tests 🧪
+      run: yarn test
+      
+    - name: install serverless
+      run: sudo npm i -g serverless
+      
+    - name: serverless deploy
+      run: serverless deploy --stage dev
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
