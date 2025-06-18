@@ -15,3 +15,6 @@
 
 ## Design Patterns
 - https://refactoring.guru/
+
+## Agile
+- [User Story Mapping](https://jpattonassociates.com/the-new-backlog/)
