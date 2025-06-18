@@ -51,7 +51,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/werzl/files/blob/master/docs/files-docs',
+            'https://github.com/werzl/files/blob/master/docusaurus/',
         },
         theme: {
           customCss: './src/css/custom.css',
