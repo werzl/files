@@ -24,13 +24,14 @@ jobs:
 
       - name: Install dependencies
         run: npm ci
+        
       - name: Build website
         run: npm run build
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: build
+          path: docusaurus/build
 
   deploy:
     name: Deploy to GitHub Pages
