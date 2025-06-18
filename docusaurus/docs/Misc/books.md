@@ -8,4 +8,5 @@
 - First, Break All The Rules by Marcus Buckingham
 - Radical Candor by Kim Scott
 - Clean Code by Robert Cecil Martin
+- Staff Engineer: Leadership beyond the management track by Will Larson
 
