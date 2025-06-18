@@ -9,7 +9,7 @@ jobs:
   build:
     defaults:
         run:
-          working-directory: ./docs
+          working-directory: docusaurus
     runs-on: ubuntu-latest
     
     steps:
