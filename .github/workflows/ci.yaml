@@ -5,11 +5,10 @@ on:
     branches: master
 
 jobs:
-
   build:
     defaults:
-        run:
-          working-directory: ./docusaurus
+      run:
+        working-directory: docusaurus
     runs-on: ubuntu-latest
     
     steps:
