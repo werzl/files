@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./docs
+        working-directory: docusaurus
     steps:
       - uses: actions/checkout@v4
         with:
@@ -21,12 +21,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 18
-          cache: npm
 
       - name: Install dependencies
         run: npm ci
       - name: Build website
-        run: npm build
+        run: npm run build
 
       - name: Upload Build Artifact
         uses: actions/upload-pages-artifact@v3
@@ -35,9 +34,6 @@ jobs:
 
   deploy:
     name: Deploy to GitHub Pages
-    defaults:
-      run:
-        working-directory: ./docs
     needs: build
 
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
