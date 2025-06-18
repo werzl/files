@@ -81,6 +81,7 @@ const config = {
             sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Docs',
+            href: '/docs/',
           },
           {
             href: 'https://github.com/werzl',
