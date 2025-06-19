@@ -9,4 +9,5 @@
 - Radical Candor by Kim Scott
 - Clean Code by Robert Cecil Martin
 - Staff Engineer: Leadership beyond the management track by Will Larson
+- Jobs to be Done by Anthony W. Ulwick
 
