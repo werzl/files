@@ -1,3 +1,0 @@
-# Scrum - Sprint Planning
-
-Test
