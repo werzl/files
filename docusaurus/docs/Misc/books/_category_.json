@@ -1,0 +1,9 @@
+{
+  "label": "Books",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Book reports and summaries on various topics related to working in software and computing."
+  }
+}
+ 

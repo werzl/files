@@ -1,4 +1,4 @@
-# Books
+# Reading List
 
 - How full is your Bucket? by Tom Rath
 - Quiet by Susan Cain
