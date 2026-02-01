@@ -20,7 +20,7 @@ Given a Senior engineer with free reign over a project, and access to agents, or
 
 Personally, I think it's still too early to tell.
 
-### Ideas for success
+### Guiderails
 In this early stage of agentic coding, I've got a few ideas on guiderails and methods of mitigating some risk...
 
 - **Human-in-the-loop**. Ensure someone on the team reviews code using the same pull request review process as they would with a human-made PR.
