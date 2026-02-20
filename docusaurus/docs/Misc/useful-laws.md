@@ -40,3 +40,5 @@
 - [**Larman’s Law**](https://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior): Organizations are implicitly optimized to avoid changing the status quo.
 
 - [**Bus factor**](https://en.wikipedia.org/wiki/Bus_factor): The "bus factor" is the minimum number of team members that have to suddenly disappear from a project before the project stalls due to lack of knowledgeable or competent personnel.
+
+- [Amdahl’s Law](https://en.wikipedia.org/wiki/Amdahl%27s_law): The overall performance improvement gained by optimizing a single part of a system is limited by the fraction of time that the improved part is actually used
