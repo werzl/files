@@ -15,4 +15,6 @@
 - [ ] Site Reliability Engineering By: Betsy Beyer, Chris Jones, Jennifer Petoff and Niall Richard Murphy
 - [ ] https://www.atlassian.com/devops/what-is-devops
 - [ ] https://theagileadmin.com/2010/10/15/a-devops-manifesto/
+- [x] https://fcto.uk/blog/series-a-technical-debt-trap/
+- [x] https://stackoverflow.blog/2023/12/27/stop-saying-technical-debt/
  
