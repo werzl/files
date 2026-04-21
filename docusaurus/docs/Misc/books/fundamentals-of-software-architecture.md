@@ -129,4 +129,6 @@ they just haven’t identified the trade-off yet.
 
 
 ## Chapter 2
-Page 23
+Page 43
+
+### Frozen Caveman Anti-Pattern
