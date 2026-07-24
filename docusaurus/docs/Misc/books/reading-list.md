@@ -17,4 +17,4 @@
 - [ ] https://theagileadmin.com/2010/10/15/a-devops-manifesto/
 - [x] https://fcto.uk/blog/series-a-technical-debt-trap/
 - [x] https://stackoverflow.blog/2023/12/27/stop-saying-technical-debt/
- 
+- [ ] Burnout: The Cost of Caring by Christina Maslach
