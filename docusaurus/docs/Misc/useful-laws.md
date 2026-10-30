@@ -44,3 +44,5 @@
 - [Amdahl’s Law](https://en.wikipedia.org/wiki/Amdahl%27s_law): The overall performance improvement gained by optimizing a single part of a system is limited by the fraction of time that the improved part is actually used
 
 - [Falacies of distributed computing](https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing)
+
+- [The Doorman Fallacy](https://en.wikipedia.org/wiki/Rory_Sutherland_(advertising_executive)#Doorman_fallacy): The Doorman at an upmarket hotel doesnt just open doors. Their salary more than makes up for the perception of high quality and often leads to guests paying more to stay at the hotel. 
